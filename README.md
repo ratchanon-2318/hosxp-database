@@ -16,4 +16,4 @@ Reverse-engineered HOSxP database schema using SQL DESCRIBE queries, analyzing 1
 
 ### Output
 
-![output](https://res.cloudinary.com/dpa96jvla/image/upload/v1793076837/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95_2026-10-27_115325_rzogbj.png)
+![output](https://res.cloudinary.com/dpa96jvla/image/upload/v1793495818/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95_2026-11-01_081046_s69bi9.png)
